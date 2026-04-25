@@ -1,4 +1,6 @@
 GOOGLE COLAB TUTORIAL:
-https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part1.ipynb#scrollTo=G6c20o6xcnZ6
+https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part1.ipynb
+PART 2:
+https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb
 
 Almost everything we need to create and reuse our model flawlessly. Big question is going to be using MD data instead of the europeann stuff
